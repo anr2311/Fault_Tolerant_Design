@@ -10,4 +10,4 @@ In the simple Simulink model in this repo, there is a triple modular system that
 
 If individual reliabilities of each system are known, the following computation can be performed to understand the reliability of the TMR system:
 
-![image](https://github.com/anr2311/Fault_Tolerant_Design/assets/72514473/18186954-127b-4d03-b1fd-d677eb23e485)
+![image](https://github.com/anr2311/Fault_Tolerant_Design/assets/72514473/4c26e74b-9c1e-45f5-8466-5bcc95dca7a9)
