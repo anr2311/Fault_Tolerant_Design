@@ -1,4 +1,4 @@
-The N-modular redundant (NMR) system introduces hardware redundancy and fault tolerance by checking that atleast M(<N) modules are functioning as intended.
+The N-modular redundant (NMR) system introduces hardware redundancy and fault tolerance by ensuring atleast M(<N) modules are functioning as intended.
 
 The triple modular redundancy (TMR) system is the most widely used type of NMR architectures where atleast 2 out of 3 modules are expected to be working as intended and only then will the parent system accept the sub-system's outputs.
 
